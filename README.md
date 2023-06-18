@@ -5,12 +5,14 @@ Timeless Truth in Software Development
 ## Timeless Technology
 
 Zu Bedenken:
+
 Aktuelle Technology ist in 10 Jahren veraltet oder überholt
 
 Angular vor 10J? Angular 16 (2023) - AngularJS 1 (2010) Not supported
 PLSQL, C, C++ vor 20 Jahren
 
 Lösung:
+
 Was ist zeitlos?
 
 if-else,variable,functions,modules,components
@@ -25,9 +27,9 @@ ChatGPT Model veraltet
 Bei Berichten über Chat GPT wird ein Umstand besonders gerne angemerkt: Das dahinterstehende Sprachmodell – also GPT-3 – wurde ursprünglich bereits im Jahr 2020 veröffentlicht, die Grundlage der Text-KI sei entsprechend also bereits ziemlich veraltet. Das um dann meist auf einen anderen Umstand hinzuweisen: nämlich dass mit GPT-4 schon bald die nächste Generation ansteht, die dann noch einmal viel, viel besser sein soll.
 
 Doku? 
-Veraltet schnell
-Weniger ist mehr
-Ist die Doku in 10J veraltet oder aktuell?
+- Veraltet schnell
+- Weniger ist mehr
+- Ist die Doku in 10J veraltet oder aktuell?
 
 Lösung:
 
