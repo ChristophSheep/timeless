@@ -4,14 +4,14 @@ Timeless Truth in Software Development
 
 ## Timeless Technology
 
-*Zu Bedenken:*
+**Zu Bedenken:**
 
 Aktuelle Technology ist in 10 Jahren veraltet oder überholt
 
 Angular vor 10J? Angular 16 (2023) - AngularJS 1 (2010) Not supported
 PLSQL, C, C++ vor 20 Jahren
 
-Lösung:
+**Lösung:**
 
 Was ist zeitlos?
 
