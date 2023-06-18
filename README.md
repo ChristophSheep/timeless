@@ -4,7 +4,7 @@ Timeless Truth in Software Development
 
 ## Timeless Technology
 
-Zu Bedenken:
+*Zu Bedenken:*
 
 Aktuelle Technology ist in 10 Jahren veraltet oder überholt
 
