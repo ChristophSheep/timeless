@@ -46,15 +46,16 @@ Wer mag mit einem 10J alten OS arbeiten?
 Wer mag mit einem 10J alten IDE arbeiten?
 
 Lösung:
+
 Do's:
 
 - Keep it simple -
-Code zeitlos 
-Code leserlich
-Code Bugfrei 
+- Code zeitlos 
+- Code leserlich
+- Code Bugfrei 
 
 Don'ts:
-Kein Magic-Code, den nur der Entwickler versteht der es gemacht hat
+- Kein Magic-Code, den nur der Entwickler versteht der es gemacht hat
 
 ## Timeless Customers
 
