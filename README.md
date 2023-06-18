@@ -56,7 +56,7 @@ Lösung:
 
 Do's:
 
-- Keep it simple -
+- Keep it simple
 - Code zeitlos 
 - Code leserlich
 - Code Bugfrei 
