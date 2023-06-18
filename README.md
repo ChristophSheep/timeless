@@ -1,6 +1,6 @@
 # Timeless
 
-Timeless Truth in Software Development
+Timeless/Truth in Software Development
 
 ## Timeless Technology
 
