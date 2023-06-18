@@ -54,12 +54,12 @@ Wer mag mit einem 10J alten IDE arbeiten?
 
 Lösung:
 
-Do's:
+Dos:
 
 - Keep it simple
 - Code zeitlos 
 - Code leserlich
-- Code Bugfrei 
+- Code bugfrei 
 
 Don'ts:
 
