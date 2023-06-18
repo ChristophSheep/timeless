@@ -20,6 +20,11 @@ Was ist zeitlos?
 
 if-else,variable,functions,modules,components
 
+Vgl. Hausbau
+Ziegel
+Schalungssystem, Beton
+Yton
+
 ## Timeless Knowledge
 
 **Zu Bendenken:**
